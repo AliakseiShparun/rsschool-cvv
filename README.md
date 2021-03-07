@@ -1,2 +1,2 @@
 # rsschool-cv
-https://AliakseiShparun.github/rsschool-cv/README.md
+https://AliakseiShparun.github/rsschool-cv/cv
