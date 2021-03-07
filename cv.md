@@ -8,7 +8,7 @@ Alexey Shparun
 
 Brief information about myself
 -----------------------------------
-I want to develop in a new field. Purposeful, diligent, teachable. I have no work experience in development, but I am a quick learner, and have a great desire to develop in this area. My e-mai adress
+I want to develop in a new field. Purposeful, diligent, teachable. I have no work experience in development, but I am a quick learner, and have a great desire to develop in this area.
 
 Skills
 -----
