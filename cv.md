@@ -1,10 +1,9 @@
 Alexey Shparun
 ============
 
-*My e-mai address
-  *killthecopinyourself@gmail.com
-*My phone
-  *+375257176307
+-My e-mai address: killthecopinyourself@gmail.com
+
+-My phone: +375257176307
 
 Brief information about myself
 ------------------------------
