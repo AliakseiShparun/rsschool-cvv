@@ -12,6 +12,6 @@ I want to develop in a new field. Purposeful, diligent, teachable. I have no wor
 HTML, CSS, JS
 
 **Education**
-2011-2016 **Belarusian National Technical University**; 
+**Belarusian National Technical University** (2011-2016)
 
   
